@@ -1,7 +1,6 @@
 # Evidencia Propietario
 ## Proceso realizado desde la terminal:
 
-
 sena@sena-HP-ProBook-445R-G6:~$ pwd
 /home/sena
 sena@sena-HP-ProBook-445R-G6:~$ cd desarrollo
